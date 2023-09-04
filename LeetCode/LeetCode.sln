@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedianOfTwoSortedArray", "MedianOfTwoSortedArray\MedianOfTwoSortedArray.csproj", "{72F330FC-868D-4C73-ABE1-9B163033AAA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "ArrayManipulation\ArrayManipulation.csproj", "{46D9D2A0-A704-41FF-BAE8-F4BC45ECE999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulation", "ArrayManipulation\ArrayManipulation.csproj", "{46D9D2A0-A704-41FF-BAE8-F4BC45ECE999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{76E46B22-4A9D-4299-B91D-39C7405310BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{76E46B22-4A9D-4299-B91D-39C7405310BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoStrings", "TwoStrings\TwoStrings.csproj", "{1DD7944A-1831-4AC6-887A-441B31F937AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{F9C7D329-738E-436B-A544-5AC3CD94D34A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{76E46B22-4A9D-4299-B91D-39C7405310BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E46B22-4A9D-4299-B91D-39C7405310BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E46B22-4A9D-4299-B91D-39C7405310BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD7944A-1831-4AC6-887A-441B31F937AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD7944A-1831-4AC6-887A-441B31F937AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD7944A-1831-4AC6-887A-441B31F937AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD7944A-1831-4AC6-887A-441B31F937AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C7D329-738E-436B-A544-5AC3CD94D34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C7D329-738E-436B-A544-5AC3CD94D34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C7D329-738E-436B-A544-5AC3CD94D34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C7D329-738E-436B-A544-5AC3CD94D34A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
