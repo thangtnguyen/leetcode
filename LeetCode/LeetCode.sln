@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoStrings", "TwoStrings\Tw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{F9C7D329-738E-436B-A544-5AC3CD94D34A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigzagConversion", "ZigzagConversion\ZigzagConversion.csproj", "{E6EB72A2-6085-4723-9F39-9436D44A6FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigzagConversion", "ZigzagConversion\ZigzagConversion.csproj", "{E6EB72A2-6085-4723-9F39-9436D44A6FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{9C05A06A-6B38-4699-9DBC-3DC8A53FD8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{9C05A06A-6B38-4699-9DBC-3DC8A53FD8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingBits", "CountingBits\CountingBits.csproj", "{1E4AE6F2-79E6-4150-99E8-DD149A68DD03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{9C05A06A-6B38-4699-9DBC-3DC8A53FD8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C05A06A-6B38-4699-9DBC-3DC8A53FD8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C05A06A-6B38-4699-9DBC-3DC8A53FD8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4AE6F2-79E6-4150-99E8-DD149A68DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4AE6F2-79E6-4150-99E8-DD149A68DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4AE6F2-79E6-4150-99E8-DD149A68DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4AE6F2-79E6-4150-99E8-DD149A68DD03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
