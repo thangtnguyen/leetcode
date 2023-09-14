@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfTheFirstOccurenceInS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
