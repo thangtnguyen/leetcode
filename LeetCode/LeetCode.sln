@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{997263AF-2FA8-45A6-88ED-3DA4E52294DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrtx", "Sqrtx\Sqrtx.csproj", "{5D597F39-4D14-4739-90E3-240C7BA73BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{997263AF-2FA8-45A6-88ED-3DA4E52294DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{997263AF-2FA8-45A6-88ED-3DA4E52294DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{997263AF-2FA8-45A6-88ED-3DA4E52294DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D597F39-4D14-4739-90E3-240C7BA73BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D597F39-4D14-4739-90E3-240C7BA73BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D597F39-4D14-4739-90E3-240C7BA73BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D597F39-4D14-4739-90E3-240C7BA73BDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
