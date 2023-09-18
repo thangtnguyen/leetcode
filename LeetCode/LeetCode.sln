@@ -41,21 +41,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "Merg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplidatesFromSortedArray", "RemoveDuplidatesFromSortedArray\RemoveDuplidatesFromSortedArray.csproj", "{CA59AEC1-76CE-423C-AD43-4AB26711CAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1882C21D-BA95-4680-9664-2F7256B4CBC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1882C21D-BA95-4680-9664-2F7256B4CBC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfTheFirstOccurenceInString", "IndexOfTheFirstOccurenceInString\IndexOfTheFirstOccurenceInString.csproj", "{05CA233E-8FF7-4106-9D5D-BCA3F2010C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexOfTheFirstOccurenceInString", "IndexOfTheFirstOccurenceInString\IndexOfTheFirstOccurenceInString.csproj", "{05CA233E-8FF7-4106-9D5D-BCA3F2010C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{F8C92036-F8BD-4C02-8FEC-AAC773D2378A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{6413BC4C-6A7B-49EC-9310-E3D3D79DAEE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{F0745BA0-2085-4A1F-B89E-8E818F5F8C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{F0745BA0-2085-4A1F-B89E-8E818F5F8C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{997263AF-2FA8-45A6-88ED-3DA4E52294DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{997263AF-2FA8-45A6-88ED-3DA4E52294DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrtx", "Sqrtx\Sqrtx.csproj", "{5D597F39-4D14-4739-90E3-240C7BA73BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqrtx", "Sqrtx\Sqrtx.csproj", "{5D597F39-4D14-4739-90E3-240C7BA73BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedList", "RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList.csproj", "{234173BA-4912-496D-9F56-A594B2C654DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList", "RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList.csproj", "{234173BA-4912-496D-9F56-A594B2C654DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{B4142C07-5AED-4AE0-9762-4656158ECA35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -391,6 +393,18 @@ Global
 		{234173BA-4912-496D-9F56-A594B2C654DD}.Release|arm64.Build.0 = Release|Any CPU
 		{234173BA-4912-496D-9F56-A594B2C654DD}.Release|x86.ActiveCfg = Release|Any CPU
 		{234173BA-4912-496D-9F56-A594B2C654DD}.Release|x86.Build.0 = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|arm64.Build.0 = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Debug|x86.Build.0 = Debug|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|arm64.ActiveCfg = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|arm64.Build.0 = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
