@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Authentication;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ThreeSum
+﻿namespace ThreeSum
 {
     public class Solution
     {
@@ -13,41 +6,35 @@ namespace ThreeSum
         {
 
             IList<IList<int>> result = new List<IList<int>>();
+            if (nums == null || nums.Length < 3) return result;
 
-            int leftIndex = 0, rightIndex = nums.Length - 1;
+            nums = nums.OrderBy(x => x).ToArray();
 
-            while (leftIndex < rightIndex)
+            for (int i = 0; i < nums.Length - 2; i++)
             {
-                int middleIndex = leftIndex + 1;
-                int leftRightTotal = nums[leftIndex] + nums[rightIndex];
-
-                while (middleIndex < rightIndex)
-                {                    
-                    if (nums[middleIndex] == -leftRightTotal)
-                    {
-                        List<int> newList = new List<int> { nums[leftIndex], nums[middleIndex], nums[rightIndex] };
-                        bool isDuplicated = false;
-                        foreach (var item in result)
-                        {
-                            if (item.All(newList.Contains) && newList.All(item.Contains))
-                            {
-                                isDuplicated = true;
-                                break;
-                            }
-                        }
-                        if (!isDuplicated)
-                        {
-                            result.Add(newList);
-                        }
-                    }
-
-                    middleIndex++;
-                }
-                rightIndex--;
-                if (rightIndex == leftIndex)
+                if (i != 0 && nums[i] == nums[i - 1]) continue;
+                int sum = 0 - nums[i];
+                int start = i + 1;
+                int end = nums.Length - 1;
+                while (start < end)
                 {
-                    rightIndex = nums.Length - 1;
-                    leftIndex++;
+                    if (nums[start] + nums[end] == sum)
+                    {
+                        List<int> newList = new List<int> { nums[i], nums[start], nums[end] };
+                        result.Add(newList);
+                        start++;
+                        end--;
+                        while (start < nums.Length && nums[start] == nums[start-1]) start++;
+                        while (end >= 0 && nums[end] == nums[end + 1]) end--; 
+                    }
+                    else if (nums[start] + nums[end]  > sum)
+                    {
+                        end--;
+                    }
+                    else 
+                    {
+                        start++;
+                    }
                 }
             }
 
