@@ -59,6 +59,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{B4142C07-5AED-4AE0-9762-4656158ECA35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{F074EE27-9FDD-46A5-899B-254B57BE6993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,18 @@ Global
 		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|arm64.Build.0 = Release|Any CPU
 		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|x86.ActiveCfg = Release|Any CPU
 		{B4142C07-5AED-4AE0-9762-4656158ECA35}.Release|x86.Build.0 = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|arm64.Build.0 = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Debug|x86.Build.0 = Debug|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|arm64.ActiveCfg = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|arm64.Build.0 = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|x86.ActiveCfg = Release|Any CPU
+		{F074EE27-9FDD-46A5-899B-254B57BE6993}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
