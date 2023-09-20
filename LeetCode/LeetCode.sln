@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.csproj", "{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinimumInRotatedSortedArray", "FindMinimumInRotatedSortedArray\FindMinimumInRotatedSortedArray.csproj", "{D6E95974-8923-426F-AF5B-A2F779239AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,18 @@ Global
 		{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}.Release|arm64.Build.0 = Release|Any CPU
 		{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}.Release|x86.ActiveCfg = Release|Any CPU
 		{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}.Release|x86.Build.0 = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|arm64.Build.0 = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Debug|x86.Build.0 = Debug|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|arm64.ActiveCfg = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|arm64.Build.0 = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6E95974-8923-426F-AF5B-A2F779239AA7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
