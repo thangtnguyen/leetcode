@@ -1,4 +1,6 @@
-﻿namespace FindMinimumInRotatedSortedArray
+﻿using System.Collections.Immutable;
+
+namespace FindMinimumInRotatedSortedArray
 {
     public class Solution
     {
@@ -28,6 +30,9 @@
             }
 
             return 0;
+
+            //nums.Min();
+
         }
     }
 }
