@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinimumInRotatedSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoIntegers", "SumOfTwoIntegers\SumOfTwoIntegers.csproj", "{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -517,6 +519,18 @@ Global
 		{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}.Release|arm64.Build.0 = Release|Any CPU
 		{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}.Release|x86.ActiveCfg = Release|Any CPU
 		{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}.Release|x86.Build.0 = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|arm64.Build.0 = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Debug|x86.Build.0 = Debug|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|arm64.ActiveCfg = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|arm64.Build.0 = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|x86.ActiveCfg = Release|Any CPU
+		{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
