@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneGraph", "CloneGraph\CloneGraph.csproj", "{8601E1B3-4C42-4668-A15F-F66AFA00960E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseSchedule", "CourseSchedule\CourseSchedule.csproj", "{F1237224-D9ED-4E85-B92F-0130204C166C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -629,6 +631,18 @@ Global
 		{8601E1B3-4C42-4668-A15F-F66AFA00960E}.Release|arm64.Build.0 = Release|Any CPU
 		{8601E1B3-4C42-4668-A15F-F66AFA00960E}.Release|x86.ActiveCfg = Release|Any CPU
 		{8601E1B3-4C42-4668-A15F-F66AFA00960E}.Release|x86.Build.0 = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|arm64.Build.0 = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Debug|x86.Build.0 = Debug|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|arm64.ActiveCfg = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|arm64.Build.0 = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
