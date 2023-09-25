@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneGraph", "CloneGraph\Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseSchedule", "CourseSchedule\CourseSchedule.csproj", "{F1237224-D9ED-4E85-B92F-0130204C166C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{355C5BC7-6C54-4583-8A76-DD7B17E040DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -643,6 +645,18 @@ Global
 		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|arm64.Build.0 = Release|Any CPU
 		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|x86.ActiveCfg = Release|Any CPU
 		{F1237224-D9ED-4E85-B92F-0130204C166C}.Release|x86.Build.0 = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|arm64.Build.0 = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|arm64.ActiveCfg = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|arm64.Build.0 = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{355C5BC7-6C54-4583-8A76-DD7B17E040DE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
