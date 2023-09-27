@@ -38,5 +38,26 @@
 
             return head;
         }
+
+        public ListNode RemoveNthFromEnd2(ListNode head, int n)
+        {
+            ListNode newHead = new ListNode(-1);
+            newHead.next = head;
+            dfs(head, n + 1);
+
+            return newHead.next;
+        }
+
+        private int dfs(ListNode node, int k)
+        {
+            if (node == null) return 0;
+            int index = 1 + dfs(node.next, k);
+            if (index == k)
+            {
+                node.next = node.next.next;
+            }
+
+            return index;
+        }
     }
 }
