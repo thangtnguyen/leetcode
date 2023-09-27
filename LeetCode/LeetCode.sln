@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTree", "SymmetricT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructures", "CommonDataStructures\CommonDataStructures.csproj", "{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -769,6 +771,18 @@ Global
 		{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}.Release|arm64.Build.0 = Release|Any CPU
 		{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}.Release|x86.ActiveCfg = Release|Any CPU
 		{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}.Release|x86.Build.0 = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|arm64.Build.0 = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|arm64.ActiveCfg = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|arm64.Build.0 = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
