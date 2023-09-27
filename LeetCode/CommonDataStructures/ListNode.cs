@@ -1,4 +1,4 @@
-﻿namespace ReverseLinkedList
+﻿namespace CommonDataStructures
 {
     public class ListNode
     {

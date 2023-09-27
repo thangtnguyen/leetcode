@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructures", "Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoBinaryTree", "MergeTwoBinaryTree\MergeTwoBinaryTree.csproj", "{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -783,6 +785,18 @@ Global
 		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|arm64.Build.0 = Release|Any CPU
 		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|x86.ActiveCfg = Release|Any CPU
 		{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}.Release|x86.Build.0 = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|arm64.Build.0 = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|arm64.ActiveCfg = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|arm64.Build.0 = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

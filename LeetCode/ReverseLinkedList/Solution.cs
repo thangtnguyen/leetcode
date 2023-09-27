@@ -1,4 +1,6 @@
-﻿namespace ReverseLinkedList
+﻿using CommonDataStructures;
+
+namespace ReverseLinkedList
 {
     public class Solution
     {
