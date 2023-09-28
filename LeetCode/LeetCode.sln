@@ -57,31 +57,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqrtx", "Sqrtx\Sqrtx.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList", "RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList.csproj", "{234173BA-4912-496D-9F56-A594B2C654DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{B4142C07-5AED-4AE0-9762-4656158ECA35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{B4142C07-5AED-4AE0-9762-4656158ECA35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{F074EE27-9FDD-46A5-899B-254B57BE6993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{F074EE27-9FDD-46A5-899B-254B57BE6993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{F3E71103-8A8F-41F4-A664-F549A8E2F0C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{F3E71103-8A8F-41F4-A664-F549A8E2F0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{78F5D807-7E42-4067-A283-E1A3C4DEFC1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{78F5D807-7E42-4067-A283-E1A3C4DEFC1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{6A7D38A0-0028-4664-94B1-A2F61BB9F470}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{6A7D38A0-0028-4664-94B1-A2F61BB9F470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{B1C25A31-D40E-4BD4-834E-234B6891DC58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{B1C25A31-D40E-4BD4-834E-234B6891DC58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.csproj", "{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.csproj", "{AF38CEAE-01CC-4A45-B339-F8A3FEBE2B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinimumInRotatedSortedArray", "FindMinimumInRotatedSortedArray\FindMinimumInRotatedSortedArray.csproj", "{D6E95974-8923-426F-AF5B-A2F779239AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMinimumInRotatedSortedArray", "FindMinimumInRotatedSortedArray\FindMinimumInRotatedSortedArray.csproj", "{D6E95974-8923-426F-AF5B-A2F779239AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{8282D608-E567-4CA3-A6DD-64BD2B70E0BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoIntegers", "SumOfTwoIntegers\SumOfTwoIntegers.csproj", "{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfTwoIntegers", "SumOfTwoIntegers\SumOfTwoIntegers.csproj", "{FECF5CFD-0F20-4603-B5E5-D5139AEE0233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{55CEF307-1162-46A4-B519-9D6E08E006C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{55CEF307-1162-46A4-B519-9D6E08E006C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{5B2DDC0D-DB5E-4932-9133-AA6A97DDD05A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{5B2DDC0D-DB5E-4932-9133-AA6A97DDD05A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserseBits", "ReserseBits\ReserseBits.csproj", "{E17E00AA-2060-407E-8F6F-E25547043B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReserseBits", "ReserseBits\ReserseBits.csproj", "{E17E00AA-2060-407E-8F6F-E25547043B8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{CA589025-9707-456A-B3E7-44A9B79A6251}"
 EndProject
@@ -114,6 +114,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoBinaryTree", "MergeTwoBinaryTree\MergeTwoBinaryTree.csproj", "{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeNUnitTests", "LeetcodeNUnitTests\LeetcodeNUnitTests.csproj", "{28026DA9-D919-4432-AE32-90CB1D45CC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeEasy", "LeetCodeEasy\LeetCodeEasy.csproj", "{D9C67686-8DA7-4651-80BE-270C05C9C76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMedium", "LeetCodeMedium\LeetCodeMedium.csproj", "{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -797,6 +803,42 @@ Global
 		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|arm64.Build.0 = Release|Any CPU
 		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|x86.ActiveCfg = Release|Any CPU
 		{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}.Release|x86.Build.0 = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|arm64.Build.0 = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Debug|x86.Build.0 = Debug|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|arm64.ActiveCfg = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|arm64.Build.0 = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{28026DA9-D919-4432-AE32-90CB1D45CC8E}.Release|x86.Build.0 = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|arm64.Build.0 = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Debug|x86.Build.0 = Debug|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|arm64.ActiveCfg = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|arm64.Build.0 = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|x86.ActiveCfg = Release|Any CPU
+		{D9C67686-8DA7-4651-80BE-270C05C9C76B}.Release|x86.Build.0 = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|arm64.Build.0 = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Debug|x86.Build.0 = Debug|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|arm64.ActiveCfg = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|arm64.Build.0 = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|x86.ActiveCfg = Release|Any CPU
+		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
