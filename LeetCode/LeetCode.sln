@@ -83,43 +83,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReserseBits", "ReserseBits\ReserseBits.csproj", "{E17E00AA-2060-407E-8F6F-E25547043B8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{CA589025-9707-456A-B3E7-44A9B79A6251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{CA589025-9707-456A-B3E7-44A9B79A6251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{D6D35961-D0D3-4A67-ABA4-75BF689AF53B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinChange", "CoinChange\CoinChange.csproj", "{D6D35961-D0D3-4A67-ABA4-75BF689AF53B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{C002F5BE-CB12-4F19-8D27-36CB426A0EE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{C002F5BE-CB12-4F19-8D27-36CB426A0EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneGraph", "CloneGraph\CloneGraph.csproj", "{8601E1B3-4C42-4668-A15F-F66AFA00960E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloneGraph", "CloneGraph\CloneGraph.csproj", "{8601E1B3-4C42-4668-A15F-F66AFA00960E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseSchedule", "CourseSchedule\CourseSchedule.csproj", "{F1237224-D9ED-4E85-B92F-0130204C166C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseSchedule", "CourseSchedule\CourseSchedule.csproj", "{F1237224-D9ED-4E85-B92F-0130204C166C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{355C5BC7-6C54-4583-8A76-DD7B17E040DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{355C5BC7-6C54-4583-8A76-DD7B17E040DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeFromEndOfList", "RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList.csproj", "{D3808927-717E-41F6-AE43-3F3173A3EE15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthNodeFromEndOfList", "RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList.csproj", "{D3808927-717E-41F6-AE43-3F3173A3EE15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionList", "PartitionList\PartitionList.csproj", "{97233196-FDD8-4460-832F-4360F10AC9A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartitionList", "PartitionList\PartitionList.csproj", "{97233196-FDD8-4460-832F-4360F10AC9A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCircle", "LinkedListCircle\LinkedListCircle.csproj", "{0BBA52CF-7AF9-4067-939E-9EC60E8570C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListCircle", "LinkedListCircle\LinkedListCircle.csproj", "{0BBA52CF-7AF9-4067-939E-9EC60E8570C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{3A3BE321-A25B-48D7-9D17-1DAC07FF2CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{3A3BE321-A25B-48D7-9D17-1DAC07FF2CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists", "MergeKSortedLists\MergeKSortedLists.csproj", "{FF110193-B7AC-485D-B492-CE8DA9C392E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeKSortedLists", "MergeKSortedLists\MergeKSortedLists.csproj", "{FF110193-B7AC-485D-B492-CE8DA9C392E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorderList", "ReorderList\ReorderList.csproj", "{F4F91A18-DCB0-4DFE-A230-568BAD335B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReorderList", "ReorderList\ReorderList.csproj", "{F4F91A18-DCB0-4DFE-A230-568BAD335B2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTree", "SymmetricTree\SymmetricTree.csproj", "{B2FEB149-C4BD-4298-975A-6A9F92B436ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymmetricTree", "SymmetricTree\SymmetricTree.csproj", "{B2FEB149-C4BD-4298-975A-6A9F92B436ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDataStructures", "CommonDataStructures\CommonDataStructures.csproj", "{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonDataStructures", "CommonDataStructures\CommonDataStructures.csproj", "{7E1AAED7-D56C-4196-85F7-9A0EB791F5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{DF7167B1-3F20-44BD-AB45-E8CCFB614C65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoBinaryTree", "MergeTwoBinaryTree\MergeTwoBinaryTree.csproj", "{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoBinaryTree", "MergeTwoBinaryTree\MergeTwoBinaryTree.csproj", "{FA65FBE1-0CBC-4918-A04B-1BFD3992DFCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeNUnitTests", "LeetcodeNUnitTests\LeetcodeNUnitTests.csproj", "{28026DA9-D919-4432-AE32-90CB1D45CC8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetcodeNUnitTests", "LeetcodeNUnitTests\LeetcodeNUnitTests.csproj", "{28026DA9-D919-4432-AE32-90CB1D45CC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeEasy", "LeetCodeEasy\LeetCodeEasy.csproj", "{D9C67686-8DA7-4651-80BE-270C05C9C76B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeEasy", "LeetCodeEasy\LeetCodeEasy.csproj", "{D9C67686-8DA7-4651-80BE-270C05C9C76B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMedium", "LeetCodeMedium\LeetCodeMedium.csproj", "{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeMedium", "LeetCodeMedium\LeetCodeMedium.csproj", "{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -839,6 +841,18 @@ Global
 		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|arm64.Build.0 = Release|Any CPU
 		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|x86.ActiveCfg = Release|Any CPU
 		{A74F6149-2AAF-4111-AEEC-0FC074B6A13E}.Release|x86.Build.0 = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|arm64.Build.0 = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|arm64.ActiveCfg = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|arm64.Build.0 = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{E4EE3237-D52C-4A7E-882F-234FAA0EF9A2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
